@@ -130,7 +130,7 @@ int main()
             if (writefile == 1) {
                 outFile << "x = " << x << " y = " << y << endl;
             }
-
+            //test comment
             y = 0;
             x += step;
         }
